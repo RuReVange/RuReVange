@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Ioann Boltonov, a student of the Information systems and Technologies department at the ITMO University in St. Petersburg, Russia.
 <!--
 **RuReVange/RuReVange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
